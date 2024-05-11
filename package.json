@@ -1,0 +1,20 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "Practise",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "Saurabh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "expres": "^0.0.5",
+    "express": "^4.19.2"
+  }
+}
